@@ -1,0 +1,26 @@
+.rating_full {
+    background-image: url('/code/stars/styles/star_images/rating_stars.png');
+    width: 14px;
+    height: 13px;
+    background-position: 0% 0%;
+    clear: none;
+    float: left;
+}
+
+.rating_half {
+    background-image: url('/code/stars/styles/star_images/rating_stars.png');
+    width: 14px;
+    height: 13px;
+    background-position: 0% 45%;
+    clear: none;
+    float: left;
+}
+
+.rating_empty {
+    background-image: url('/code/stars/styles/star_images/rating_stars.png');
+    width: 14px;
+    height: 13px;
+    background-position: 0% 93%;
+    clear: none;
+    float: left;
+}
